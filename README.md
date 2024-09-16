@@ -89,3 +89,6 @@ $ python animate.py --initial-file initial.csv \
 ## Contribution guide
 
 (...)
+
+## Test change of readme
+Bla bla
